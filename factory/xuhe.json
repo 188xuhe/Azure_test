@@ -1,0 +1,9 @@
+{
+	"name": "xuhe",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "789e7944-36d9-461f-be01-a443605748a5",
+		"tenantId": "4a4fa309-f1b5-42ff-9ec6-1e38995bb71e"
+	}
+}
